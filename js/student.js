@@ -5,7 +5,7 @@ if (nid == undefined) {
 }
 
 
-url = "/data/"+nid;
+url = "../data.json/"+nid;
 
 $.ajax({
 	dataType:'JSON',

@@ -1,4 +1,4 @@
-url = "/data";
+url = "../data.json";
 
 $.ajax({
 	dataType:'JSON',
